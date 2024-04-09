@@ -1,0 +1,6 @@
+@endPoint1MVC_HostAddress = http://localhost:5029
+
+GET {{endPoint1MVC_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
